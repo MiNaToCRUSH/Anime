@@ -1,0 +1,36 @@
+{
+	"anime": [
+		{
+			"id": 0,
+			"title": "Повелитель",
+			"original-title": "Overlord",
+	        "rating": 9.1,
+			"my-rating": 70,
+			"my-review": 0,
+			"ganre": "Приключения",
+	         "tags": [
+	            "Приключения",
+	            "Сёнен",
+	            "Фантастика"
+	         ],
+	         "date": 2019,
+	         "description": 0
+		},
+		{
+			"id": 1,
+			"title": "Синий Экзорцист",
+			"original-title": "Overlord",
+	        "rating": 9.1,
+			"my-rating": 0,
+			"ganre": "Приключения",
+	         "tags": [
+	            "Приключения",
+	            "Сёнен",
+	            "Фантастика"
+	         ],
+	         "date": 2019,
+	         "description": 0
+		}
+	]
+}
+
